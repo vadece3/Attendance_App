@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/main_back">
+
+        <EditText
+            android:id="@+id/add_name"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Full Name"
+            android:gravity="center"
+            android:layout_margin="10dp"/>
+
+        <EditText
+            android:id="@+id/matricule_number"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="MATRICULE NUMBER"
+            android:gravity="center"
+            android:layout_margin="10dp"/>
+
+        <EditText
+            android:id="@+id/add_roll"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Major"
+            android:gravity="center"
+            android:layout_margin="10dp"/>
+
+        <EditText
+            android:id="@+id/add_phone"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Mobile Number"
+            android:gravity="center"
+            android:inputType="phone"
+            android:maxLength="10"
+            android:layout_margin="10dp"/>
+
+        <EditText
+            android:id="@+id/school_email"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="SCHOOL E-MAIL"
+            android:gravity="center"
+            android:layout_margin="10dp"/>
+
+        <Button
+            android:id="@+id/add_student"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/main_blue"
+            android:text="Add Student"
+            android:textColor="@color/accent2"/>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/accent2"
+    tools:context="com.ns3.Attendance.Homescreen">
+
+
+    <RelativeLayout
+        android:layout_width="340dp"
+        android:layout_height="650dp"
+        android:background="@color/main_blue_dark"
+        android:layout_gravity="fill_vertical|center"
+        android:layout_marginTop="10dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=" WELCOME"
+            android:textColor="@color/white"
+            android:id="@+id/text"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="130dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=" AUTOMATED "
+            android:textColor="@color/white"
+            android:layout_alignBottom="@+id/imageView1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="170dp"
+           />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=" ATTENDANCE SYSTEM"
+            android:textColor="@color/white"
+            android:id="@+id/textView6"
+            android:layout_alignBottom="@+id/imageView1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="150dp"
+           />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="80dp"
+            android:id="@+id/imageView2"
+            android:src="@drawable/home_wifi_button"
+            android:onClick="bluetoothClicked"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="30dp"/>
+
+
+        <ImageView
+            android:layout_width="320dp"
+            android:layout_height="875dp"
+            android:id="@+id/imageView1"
+            android:src="@drawable/home_bluetooth_button"
+            android:onClick="bluetoothClicked"
+            android:layout_centerHorizontal="true"
+            tools:layout_marginTop="90dp"
+            android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+
+
+</LinearLayout>

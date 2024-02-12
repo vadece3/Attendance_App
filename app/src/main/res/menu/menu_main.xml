@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ns3.Attendance.Attendance"
+    android:background="@color/main_blue">
+
+
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="About us"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/help"
+        android:orderInCategory="100"
+        android:title="Help"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/manuel"
+        android:orderInCategory="100"
+        android:title="Manual"
+        app:showAsAction="never" />
+
+</menu>

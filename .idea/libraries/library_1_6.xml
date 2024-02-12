@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.borax12.materialdaterangepicker/library/1.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.borax12.materialdaterangepicker/library/1.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.borax12.materialdaterangepicker/library/1.6/9cffd377c1ab65a640ebfb8b525d3e0f747cb192/library-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

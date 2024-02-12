@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b351695c2d7e54fbf4ba356a012d3b4009584c86">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fdc41071646e32d4f1fe0db1588106ab9782d93d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.melnykov-floatingactionbutton-1.3.0_1c7b7b3ac68cbe59d6bad0c48a7559f939bc5e82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_9560071699df5aed0b2b986f735ea0cb2ac2458a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.borax12.materialdaterangepicker\library\1.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44873ba0b2bc950c80c480dc08e218e09f3239f1">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.borax12.materialdaterangepicker-library-1.6_bffe1601e35988a5cd91c7c840d84439b658c21e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.1_6d6d5fcf57c9a6e0171d694e4d81c0b8eb23c9a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c1419029f17d896702b6a29f0432062b6cc8c66b">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2f653849b3f901c6f6d0863c817480250cf63ed4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_cedf23795490e1f712355a4b3e2148a80b815cac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.github.blackfizz\eazegraph\1.2.5l\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9ca94efcd135d4801fa7b93c49ed36c349303172">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.blackfizz-eazegraph-1.2.5l_b267d1e566aaed07f1e9c621773fd9acc52a9a48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.skyfishjy.ripplebackground\library\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.skyfishjy.ripplebackground-library-1.0.1_e56bde7196d00b52eb00005c181db1251352b155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\laura\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_02b971cb75cad98cacbc075c79d942d6990cb192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\laura\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\0.89.0\1161dc9ab7ad1b42263286a3a9401209bffcef55\realm-annotations-0.89.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1161dc9ab7ad1b42263286a3a9401209bffcef55">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-0.89.0_b44a6c4910cc8056939b138bcdd6841eec6dfdb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_52ec347989fc4cd4d101df23d83d17cb6662b7f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_b369ba3b0599eb8772ee98693aaf2302bbbc4c93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\io.realm\realm-android-library\0.89.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="baba4547090b0d09abd4acb2b408b679bdd540aa">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-0.89.0_823f21042ed5c0ef176abc73503246a97372ff3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.nononsenseapps\filepicker\2.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5d6e507c13c01bdea67918bf86561893d15bbac1">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.nononsenseapps-filepicker-2.4.2_4d6df802a4dce5bb5b1c722a9e79fc146097fd34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_d70852c2763cf78ca523c04e91ee1fd266fd2966\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_d3fbced0c9346cdf127254bb17be6a523dbe0aed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\laura\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_e6e7ee012f083f30466fabaca8e62fd98806408f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_bfd8d78b8f58db8a1023a98becc76bb6e51bd46f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="D:\ANDROID STUDIO\attendance app\Attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_fc7e28ba720e0bba364686e9820d5525356fbea0\classes.dex" />
+    </item>
+
+</items>
