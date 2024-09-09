@@ -20,7 +20,7 @@ It is an Android app used to conduct attendance in any institute.
 
 3-	Import a new class list to add to the already present class list (updating the existing class list with another class list).
 
-4-	Take attendance-> Here the attendance can be taken per date and each attendance date is given a particular mark i.e today`s attendance can be taken on 10 and tomorrow`s attendance can be taken on 5 and so un.
+4-	Take attendance-> Here the attendance can be taken per date and each attendance date is given a particular mark i.e today's attendance can be taken on 10 and tomorrow's attendance can be taken on 5 and so un.
 
 5-	View the attendance statistics of each student in percentage. You can also modify a student`s presence status.
 
