@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/4df40f07-c4d1-4343-ae89-59a5fa96ad28
+
 # Attendance_App
 
 To run the project you need to install android studio and import the project. The work is still and can still be woked upon.
